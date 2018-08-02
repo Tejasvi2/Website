@@ -9,13 +9,13 @@ Node js
 
 Following are the commands for node js
 
-npm install express --save 
-npm install --save path
-npm install body-parser --save
-npm i nodemailer --save
-npm i nodemailer-smtp-transport --save
-npm i exphbs --save
-npm i express-handlebars --save
+1)npm install express --save 
+2)npm install --save path
+3)npm install body-parser --save
+4)npm i nodemailer --save
+5)npm i nodemailer-smtp-transport --save
+6)npm i exphbs --save
+7)npm i express-handlebars --save
 
 ----------------------------------------------
 This will run on 8081 Server.
